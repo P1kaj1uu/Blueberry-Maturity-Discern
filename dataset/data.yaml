@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['ripe']
+
+roboflow:
+  workspace: project-ux9pd
+  project: -zwb06
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-ux9pd/-zwb06/dataset/2
